@@ -18,8 +18,6 @@
 
 9-print_comb.c: is a C program that prints all possible combinations of single-digit numbers.
 
-10-print_comb2.c: is a C program that prints the numbers from 00 to 99.
-
 100-print_comb3.c: is a program that prints all possible different combinations of two digits.
 
 101-print_comb4.c: is a program that prints all possible different combinations of three digits.
